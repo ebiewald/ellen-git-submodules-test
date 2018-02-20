@@ -1,0 +1,3 @@
+[submodule "src/ovia-angular-common"]
+	path = src/ovia-angular-common
+	url = git@github.com:ebiewald/ellen-git-submodule.git
